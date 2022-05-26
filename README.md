@@ -8,4 +8,5 @@
 ldv2171/ldv2171 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-hdd and ssd user and master passwort
+hdd and ssd user and master passwort, search i help for read from user or master hdd or sdd passwort
+i can delet you hdd passwort from WDC hard disk
